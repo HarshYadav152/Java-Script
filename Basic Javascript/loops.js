@@ -6,7 +6,7 @@ console.log("harsh");
 //     console.log(i);  // at every iteration i's value start from 0 and check condition and increament
 //     // it will print 0 1 2
 // }
-let friends = ["Harsh","Asif","Sengar","Singh"];
+let friends = ["Harsh","Asif","S","Singh"];
 // for (let index = 0; index < friends.length; index++) {
 //     console.log("Hello dosto",friends[index]);
 // }
