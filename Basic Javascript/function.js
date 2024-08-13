@@ -16,7 +16,7 @@ function greet(Name, greettext = "hello") {
 }
 let name0 = "Harsh";
 let name1 = "Yadav"; // it's scope is global 
-let name2 = "Sengar";
+let name2 = "S";
 let name3 = "Manish";
 let greettext = "Good morning";
 // greet(name0); // calling a function to execute the code u nder the function
